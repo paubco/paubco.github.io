@@ -7,34 +7,37 @@ Right now, I'm focused on finding meaningful learning opportunities —internshi
 
 ## Education  
 
-**Master's Degree in Data Science** 
+**Master's Degree in Data Science**   
 *2024 - 2025  Universitat Oberta de Catalunya*  
 
 
 **Master's Degree in Economic History**  
-*2018 - 2019  Universitat de Barcelona*  
+*2018 - 2019  Universitat de Barcelona* 
 
-** Master's Degree in Economics**  
+
+**Master's Degree in Economics**  
 *2017-2018 UT1 / Toulouse School of Economics*  
 
 
-** Bachelor's Degree in Economics**  
+**Bachelor's Degree in Economics**  
 *2014- 2017 Universitat Pompeu Fabra*  
 
 ## Projects
 
-**Després de les bombes: Urbanisme i especulació en la Barcelona de postguerra** 
+**Després de les bombes: Urbanisme i especulació en la Barcelona de postguerra**  
 *2019 - Universitat de Barcelona*  
+
 Conducted a spatial econometric analysis to examine the long-term effects of bombings during the Spanish Civil War on the urban redevelopment of Barcelona. The study explored how wartime destruction facilitated urban planning and real estate speculation, with a focus on long term effects on turism and housing prices.
 
-** Effects of Literacy on Labour Inequality: Evidence from Spain (1860 - 1930) ** 
-*2018 - Université Toulouse Capitole*  
+**Effects of Literacy on Labour Inequality: Evidence from Spain (1860 - 1930)**  
+*2018 - Université Toulouse Capitole*
+
 This econometric study examined the relationship between literacy rates and labor inequality during Spain's economic development in the 19th and early 20th centuries. Focusing on the period between 1860 and 1930, the project used archive data to a how increasing literacy levels helped in reducing wage disparity and access to economic opportunities, shedding light on the broader social and economic implications of education on labor markets during a transformative period in Spanish history.
 
 ## Experience
 
 ### Private Chef and Event Organization  
-**Freelance**  
+*Freelance**  
 *2023 - Present*  
 - Organized and prepared events for up to five hundred people at prestigious venues in Barcelona, such as Palau de la Música Catalana and Col·legi d'Arquitectes de Catalunya.  
 - Managed private meals for special occasions at Barcelona City Hall and artist expos.  
