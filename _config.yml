@@ -2,5 +2,4 @@ title: Pau Barba i Colomer
 logo: /assets/2025_Camisa_BW_LR.jpg
 description: Data Science Applicant
 show_downloads: true
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dirt"
+theme: jekyll-theme-minimal
