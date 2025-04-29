@@ -36,38 +36,32 @@ This econometric study examined the relationship between literacy rates and labo
 
 ## Experience
 
-### Private Chef and Event Organization  
-*Freelance**  
-*2023 - Present*  
+**Private Chef and Event Organization**  
+*Freelance (2023 - 2025)*  
 - Organized and prepared events for up to five hundred people at prestigious venues in Barcelona, such as Palau de la Música Catalana and Col·legi d'Arquitectes de Catalunya.  
 - Managed private meals for special occasions at Barcelona City Hall and artist expos.  
 - Offered personalized cooking courses and workshops based on demand.
 
-### Head Chef  
-**Terra d'Escudella Coop**  
-*March 2022 - July 2023*  
+**Head Chef**  
+*Terra d'Escudella Coop (2019 -  2022)*   
 - Designed and oversaw the culinary offer, including seasonal menus and a menu rooted in traditional Catalan cuisine.  
 - Managed and led a team of sixteen staff members, ensuring smooth daily operations in a busy schedule.  
 - As partner in the restaurant, planned staff meetings and took on strategic roles in team recruitment, economic planning, reform design, and workflow optimization to improve efficiency.
 
-### Line Cook  
-**Terra d'Escudella Coop**  
-*2019 - March 2022)*  
+**Line Cook**  
+*Terra d'Escudella Coop (2019 -  2022)*  
 - Oversaw the entrée, main course, and pastry sections, ensuring consistent and high-quality execution throughout service.  
 - Specialized in traditional Catalan cuisine, with a focus on traditional techniques and ingredients.  
 - Actively contributed to the restaurant’s economic plan, providing operational input on cost management and economic planning.
 
-### Youth Counselor  
-**Escola IPSI**  
-*2015 - 2020*  
+**Youth Counselor**  
+*Escola IPSI (2015 - 2020)*  
 - Led teams of up to 20 children aged 12 to 16.  
-- Planned educational programs and activities.  
-- Guided 4-day mountain excursions.  
-- Conflict mediation, first aid, contact with families and schools.
+- Planned educational programs and activities and guided 4-day mountain excursions.  
+- Involved in  mediation, first aid, contact with families and schools.
 
-### Research Assistant  
-**Universitat Pompeu Fabra**  
-*2018 - 2018)*    
+**Research Assistant**  
+*Universitat Pompeu Fabra (2018)*    
 - Conducted research and compiled bibliographic resources, focusing on topics in political economy, geopolitics, and African anthropology.  
 - Performed data analysis and modelling using R and Stata, constructing datasets with widespread and misdocumented data.  
 - Reviewed academic publications and provided feedback, contributing to various projects related to political economy, geopolitics, and anthropology.
