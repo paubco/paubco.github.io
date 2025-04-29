@@ -24,7 +24,7 @@ Right now, I'm focused on finding meaningful learning opportunities —internshi
 
 ## Projects
 **Simple Recurrent Neural Network (RNN) from Scratch**  
-*2025 - UOC*  
+*2025 - Universitat Oberta de Catalunya*  
 
 Implemented a Simple Recurrent Neural Network (RNN) from first principles using NumPy, including forward pass, backpropagation through time, and autoregressive prediction without relying on high-level frameworks. Results were benchmarked against TensorFlow's SimpleRNN, showing closely matching predictive performance and error metrics.
 
