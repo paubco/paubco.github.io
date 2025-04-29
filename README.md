@@ -24,11 +24,13 @@ Right now, I'm focused on finding meaningful learning opportunities —internshi
 
 ## Projects
 **Scraping Recipes Project**  
-*Ongoing - Universitat Oberta de Catalunya*
+*Ongoing - Universitat Oberta de Catalunya*  
+
 Created a dataset of over fifty thousand well documented recipes using language processing techniques to extract atributes for nutrition, elaboration difficulty. Curretly planning possible usecases for the data such as: adapting recipes for allergies, flavour profile clustering and analysis, etc. 
 
 **Ordinary Least Squares (OLS) Regression from Scratch**  
-*2024 - Independent*
+*2024 - Independent*  
+
 Implemented Ordinary Least Squares (OLS) regression algorithm including matrix multiplication, transposition and inversion using Gauss-Jordan elimination from first principles using NumPy avoiding reliance on high-level libraries like scikit-learn. Results were crossvalidated against scikit-lean with matching performane.
 
 **Després de les bombes: Urbanisme i especulació en la Barcelona de postguerra**  
