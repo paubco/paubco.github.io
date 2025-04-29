@@ -57,7 +57,7 @@ This econometric study examined the relationship between literacy rates and labo
 - Offered personalized cooking courses and workshops based on demand.
 
 **Head Chef**  
-*Terra d'Escudella Coop (2019 -  2022)*   
+*Terra d'Escudella Coop (2022 -  2023)*   
 - Designed and oversaw the culinary offer, including seasonal menus and a menu rooted in traditional Catalan cuisine.  
 - Managed and led a team of sixteen staff members, ensuring smooth daily operations in a busy schedule.  
 - As partner in the restaurant, planned staff meetings and took on strategic roles in team recruitment, economic planning, reform design, and workflow optimization to improve efficiency.
