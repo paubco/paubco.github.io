@@ -23,6 +23,11 @@ Right now, I'm focused on finding meaningful learning opportunities —internshi
 *2014- 2017 Universitat Pompeu Fabra*  
 
 ## Projects
+**Simple Recurrent Neural Network (RNN) from Scratch**  
+*2025 - UOC*  
+
+Implemented a Simple Recurrent Neural Network (RNN) from first principles using NumPy, including forward pass, backpropagation through time, and autoregressive prediction without relying on high-level frameworks. Results were benchmarked against TensorFlow's SimpleRNN, showing closely matching predictive performance and error metrics.
+
 **Scraping Recipes Project**  
 *Ongoing - Universitat Oberta de Catalunya*  
 
