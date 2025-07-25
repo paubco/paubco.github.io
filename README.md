@@ -52,9 +52,9 @@ This econometric study examined the relationship between literacy rates and labo
 
 **ITSM Analyst - Internship**  
 *Nestle Global (2025 - Present)*  
--Developed asset criticality assessment models to support IT products risk evaluation.
--Designed knowledge retrieval solutions using generative AI, with a focus on practical integration of ITSM environments.
--Explored process mining techniques to establish robust data foundations for future agent-based AI applications.
+- Developed asset criticality assessment models to support IT products risk evaluation.
+- Designed knowledge retrieval solutions using generative AI, with a focus on practical integration of ITSM environments.
+- Explored process mining techniques to establish robust data foundations for future agent-based AI applications.
 
 **Private Chef and Event Organization**  
 *Freelance (2023 - 2025)*  
