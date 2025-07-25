@@ -50,11 +50,17 @@ This econometric study examined the relationship between literacy rates and labo
 
 ## Experience
 
+**ITSM Analyst - Internship**  
+*Nestle Global (2025 - Present)*  
+-Developed asset criticality assessment models to support IT products risk evaluation.
+-Designed knowledge retrieval solutions using generative AI, with a focus on practical integration of ITSM environments.
+-Explored process mining techniques to establish robust data foundations for future agent-based AI applications.
+
 **Private Chef and Event Organization**  
 *Freelance (2023 - 2025)*  
 - Organized and prepared events for up to five hundred people at prestigious venues in Barcelona, such as Palau de la Música Catalana and Col·legi d'Arquitectes de Catalunya.  
 - Managed private meals for special occasions at Barcelona City Hall and artist expos.  
-- Offered personalized cooking courses and workshops based on demand.
+- Offered personalized cooking courses and workshops based demand.
 
 **Head Chef**  
 *Terra d'Escudella Coop (2022 -  2023)*   
