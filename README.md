@@ -23,7 +23,7 @@ Having recently stepped into the tech space, I bring a diverse background that r
 **Graph RAG Pipeline for AI Governance Literature**  
 *Ongoing - Master's Thesis UOC*  
 
-Designed and implemented a pipeline for Graph Retrieval-Augmented Generation (Graph RAG) using Haystack. Built automated data acquisition workflows integrating the Scopus Search API and ScienceDirect Article API to collect open-access research articles, parse full text and metadata into normalized JSON, and prepare content for knowledge graph construction. Developed methods for entity and relation extraction from scientific text to populate the graph, enabling advanced semantic retrieval and reasoning for research question answering.
+Designed and implemented a pipeline for Graph Retrieval-Augmented Generation (Graph RAG) integrating the Scopus Search API and ScienceDirect Article API to collect open-access research articles. Developed methods for entity and relation extraction from scientific text to populate the graph, enabling advanced semantic retrieval and reasoning for question answering. Studying the possibiliy to design a chat-based front-end.
 
 **Simple Recurrent Neural Network (RNN) from Scratch**  
 *2025 - Universitat Oberta de Catalunya*  
