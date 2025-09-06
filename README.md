@@ -1,10 +1,7 @@
 ## About  
-MSc in Economics and currently completing a second MSc in Data Science, I'm pivoting into the data-driven world after several years of hands-on experience in the catering industry. 
+MSc in Economics and currently completing a second MSc in Data Science, I’m pivoting into the data-driven world after several years of hands-on experience in the catering industry.
 
-While my professional background lies outside the tech space, I'm bringing a diverse portfolio that shows adaptability along with an expanding technical skill set. 
-
-Right now, I'm focused on finding meaningful learning opportunities —internships or projects—that will help bridge the gap between academic knowledge and real-world applications.
-
+Having recently stepped into the tech space, I bring a diverse background that reflects adaptability and a steadily growing technical skill set. I'm now focused on finding meaningful opportunities that bridge academic learning with real-world impact.
 ## Education  
 
 **Master's Degree in Data Science**   
@@ -23,6 +20,11 @@ Right now, I'm focused on finding meaningful learning opportunities —internshi
 *2014- 2017 Universitat Pompeu Fabra*  
 
 ## Projects
+**Graph RAG Pipeline for AI Governance Literature**  
+*Ongoing - Master's Thesis UOC*  
+
+Designed and implemented a pipeline for Graph Retrieval-Augmented Generation (Graph RAG) using Haystack. Built automated data acquisition workflows integrating the Scopus Search API and ScienceDirect Article API to collect open-access research articles, parse full text and metadata into normalized JSON, and prepare content for knowledge graph construction. Developed methods for entity and relation extraction from scientific text to populate the graph, enabling advanced semantic retrieval and reasoning for research question answering.
+
 **Simple Recurrent Neural Network (RNN) from Scratch**  
 *2025 - Universitat Oberta de Catalunya*  
 
@@ -52,7 +54,7 @@ This econometric study examined the relationship between literacy rates and labo
 
 **ITSM Analyst - Internship**  
 *Nestle Global (2025 - Present)*  
-- Developed asset criticality assessment models to support IT products risk evaluation.
+- Developed a criticality assessment methodology to support IT Service support and risk evaluation.
 - Designed knowledge retrieval solutions using generative AI, with a focus on practical integration of ITSM environments.
 - Explored process mining techniques to establish robust data foundations for future agent-based AI applications.
 
